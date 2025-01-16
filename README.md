@@ -15,7 +15,7 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 
 - Windows 10 (Build 19044)
 - Microsoft Azure (Virtual Machines)
-- Remote Desktop (RDP)
+- Windows App for Mac (previously named Microsoft Remote Desktop)
 - Internet Information Services (IIS)
 
   <h2> Prerequisites </h2>

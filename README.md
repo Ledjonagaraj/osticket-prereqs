@@ -267,9 +267,8 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 <br />
 <br />
 <h3 align="center">Login to the osTicket Admin Panel (http://localhost/osTicket/scp/login.php)</h3>
-<br />
 <p>
-	<img src="https://i.imgur.com/8wvWH0H.jpg" height="75%" width="100%" />
+	<img src="https://i.imgur.com/0q0V3o4.png" height="75%" width="100%" />
 </p>
 <br />
 <br />

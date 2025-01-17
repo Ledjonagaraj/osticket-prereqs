@@ -122,7 +122,7 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 	Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”:
 </p>
 <p>
-	<img src="https://i.imgur.com/pDikkgq.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/96SFzQL.png" height="75%" width="100%" />
 </p>
 <br />
 <br />
@@ -132,13 +132,13 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 	Go to sites -> Default -> osTicket:
 </p>
 <p>
-	<img src="https://i.imgur.com/QeWNlG3.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/WwsdVLI.png" height="75%" width="100%" />
 </p>
 <p>
 	On the right, click “Browse *:80”:
 </p>
 <p>
-	<img src="https://i.imgur.com/3iXhNbi.png" height="75%" width="100%"/>
+	<img src="https://i.imgur.com/uQ4DX5K.png" height="75%" width="100%"/>
 </p>
 <br />
 <br />
@@ -151,7 +151,7 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 	Double-click PHP Manager:
 </p>
 <p>
-	<img src="https://i.imgur.com/LFKo5Hs.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/FdNMtu4.png" height="75%" width="100%" />
 </p>
 <p>
 	Click “Enable or disable an extension”.
@@ -166,14 +166,14 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 	Enable: php_opcache.dll:
 </p>
 <p>
-	<img src="https://imgur.com/a/nrQo0kz" height="75%" width="100%"/>
+	<img src="https://i.imgur.com/zVCf6CV.png" height="75%" width="100%"/>
 </p>
 <br />
 <br />
 <h3 align="center">Refresh the osTicket site in your browser, observe the changes</h3>
 <br />
 <p>
-	<img src="https://i.imgur.com/6iSNd4H.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/e9rkaoK.png" height="75%" width="100%" />
 </p>
 <br />
 <br />
@@ -186,7 +186,7 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 	To: C:\inetpub\wwwroot\osTicket\include\ost-config.php:
 </p>
 <p>
-	<img src="https://i.imgur.com/TEw71SD.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/3gLoeo3.png" height="75%" width="100%" />
 </p>
 <br />
 <br />
@@ -196,16 +196,16 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 	Disable inheritance -> Remove All:
 </p>
 <p>
-	<img src="https://i.imgur.com/1QtRWEF.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/RddWiqF.png" height="75%" width="100%" />
 </p>
 <p>
 	New Permissions -> Everyone -> All:
 </p>
 <p>
-	<img src="https://i.imgur.com/YzsMXNX.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/FBTgEuz.png" height="75%" width="100%" />
 </p>
 <p>
-	<img src="https://i.imgur.com/k7x9yGR.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/jdl7Xqr.png" height="75%" width="100%" />
 </p>
 <br />
 <br />
@@ -218,15 +218,14 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 	Default email (receives email from customers):
 </p>
 <p>
-	<img src="https://i.imgur.com/rvMvlNC.png" height="75%" width="100%" />
-	<img src="https://i.imgur.com/YszhIpl.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/gzvXSdV.png" height="75%" width="100%" />
 </p>
 <br />
 <br />
 <h3 align="center">Download and Install HeidiSQL</h3>
 <br />
 <p>
-	<img src="https://i.imgur.com/AEg0b2P.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/F2S0CX7.png" height="75%" width="100%" />
 </p>
 <p>
 	Create a new session, root/Password1.
@@ -235,13 +234,13 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 	Connect to the session:
 </p>
 <p>
-	<img src="https://i.imgur.com/9t51ApR.png" height="75%" width="100%" "/>
+	<img src="https://i.imgur.com/fjtNvW4.png" height="75%" width="100%" "/>
 </p>
 <p>
 	Create a database called “osTicket”:
 </p>
 <p>
-	<img src="https://i.imgur.com/vXzmQqg.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/J6sXZQh.png" height="75%" width="100%" />
 </p>
 <br />
 <br />
@@ -255,29 +254,16 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 	MySQL Password: Password1:
 </p>
 <p>
-	<img src="https://i.imgur.com/akDyber.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/6uKct7u.png" height="75%" width="100%" />
 </p>
 <p>Click “Install Now!”</p>
 <p>Congratulations, hopefully it is installed with no errors!</hp>
 <p>
-	<img src="https://i.imgur.com/J5omRoE.png" height="75%" width="100%" />
+	<img src="https://i.imgur.com/rhP6TaV.png" height="75%" width="100%" />
 </p>
 <br />
 <br />
 <h3 align="center">Clean up</h3>
-<br />
-<p>
-	Delete: C:\inetpub\wwwroot\osTicket\setup:
-</p>
-<p>
-	<img src="https://i.imgur.com/eg0ZPG3.png" height="75%" width="100%" />
-</p>
-<p>
-	Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php:
-</p>
-<p>
-	<img src="https://i.imgur.com/n6k46XL.png" height="75%" width="100%" />
-</p>
 <br />
 <br />
 <h3 align="center">Login to the osTicket Admin Panel (http://localhost/osTicket/scp/login.php)</h3>

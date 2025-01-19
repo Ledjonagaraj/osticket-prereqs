@@ -157,13 +157,13 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 	Click “Enable or disable an extension”.
 </p>
 <p>
-	Enable: php_imap.dll.
+	Enable: php_imap.dll
 </p>
 <p>
-	Enable: php_intl.dll.
+	Enable: php_intl.dll
 </p>
 <p>
-	Enable: php_opcache.dll.
+	Enable: php_opcache.dll
 </p>
 <p>
 	<img src="https://i.imgur.com/zVCf6CV.png" height="75%" width="100%"/>

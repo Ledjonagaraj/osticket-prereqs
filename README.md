@@ -193,13 +193,13 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 <h3 align="center">Assign Permissions: ost-config.php</h3>
 <br />
 <p>
-	Disable inheritance -> Remove All:
+	Disable inheritance -> Remove All
 </p>
 <p>
 	<img src="https://i.imgur.com/RddWiqF.png" height="75%" width="100%" />
 </p>
 <p>
-	New Permissions -> Everyone -> All:
+	New Permissions -> Everyone -> All
 </p>
 <p>
 	<img src="https://i.imgur.com/FBTgEuz.png" height="75%" width="100%" />
@@ -212,10 +212,10 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 <h3 align="center">Continue Setting up osTicket in the browser (click Continue)</h3>
 <br />
 <p>
-	Name Helpdesk.
+	Name Helpdesk
 </p>
 <p>
-	Default email (receives email from customers):
+	Default email (receives email from customers)
 </p>
 <p>
 	<img src="https://i.imgur.com/gzvXSdV.png" height="75%" width="100%" />

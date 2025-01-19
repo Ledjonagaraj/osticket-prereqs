@@ -45,7 +45,7 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 </p>
 <br />
 <br />
-<h3 align="center">Open your Remote Desktop Connection app on your computer and connect to your Virtual Machine that was created in Azure. </h3>
+<h3 align="center">Open your Windows app on your computer and connect to your Virtual Machine that was created in Azure. </h3>
 <br />
 <p>
 	<img src="https://i.imgur.com/LJdZNhw.png"/>

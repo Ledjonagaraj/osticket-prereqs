@@ -115,7 +115,7 @@ This is an easy guide to installing a help desk ticketing system called osTicket
   Download osTicket (download from within lab files: link).
 </p>
 <p>
-	Copy and paste the “upload” folder INTO c:\inetpub\wwwroot:
+	From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”
 </p>
 	<img src="https://i.imgur.com/HIyGDbL.png" height="75%" width="100%" />
 <p>

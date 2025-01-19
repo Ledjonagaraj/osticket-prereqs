@@ -177,7 +177,7 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 </p>
 <br />
 <br />
-<h3 align="center">Rename: ost-config.php</h3>
+<h3 align="center">Rename</h3>
 <br />
 <p>
 	From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php.

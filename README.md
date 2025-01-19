@@ -115,7 +115,7 @@ This is an easy guide to installing a help desk ticketing system called osTicket
   Download osTicket (download from within lab files: link).
 </p>
 <p>
-	From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”
+	From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot:”
 </p>
 	<img src="https://i.imgur.com/HIyGDbL.png" height="75%" width="100%" />
 <p>
@@ -157,13 +157,13 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 	Click “Enable or disable an extension”.
 </p>
 <p>
-	Enable: php_imap.dll
+	Enable: php_imap.dll.
 </p>
 <p>
-	Enable: php_intl.dll
+	Enable: php_intl.dll.
 </p>
 <p>
-	Enable: php_opcache.dll
+	Enable: php_opcache.dll:
 </p>
 <p>
 	<img src="https://i.imgur.com/zVCf6CV.png" height="75%" width="100%"/>
@@ -193,13 +193,13 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 <h3 align="center">Assign Permissions: ost-config.php</h3>
 <br />
 <p>
-	Disable inheritance -> Remove All
+	Disable inheritance -> Remove All:
 </p>
 <p>
 	<img src="https://i.imgur.com/RddWiqF.png" height="75%" width="100%" />
 </p>
 <p>
-	New Permissions -> Everyone -> All
+	New Permissions -> Everyone -> All:
 </p>
 <p>
 	<img src="https://i.imgur.com/FBTgEuz.png" height="75%" width="100%" />
@@ -212,10 +212,10 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 <h3 align="center">Continue Setting up osTicket in the browser (click Continue)</h3>
 <br />
 <p>
-	Name Helpdesk
+	Name Helpdesk.
 </p>
 <p>
-	Default email (receives email from customers)
+	Default email (receives email from customers):
 </p>
 <p>
 	<img src="https://i.imgur.com/gzvXSdV.png" height="75%" width="100%" />
@@ -228,7 +228,7 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 	<img src="https://i.imgur.com/F2S0CX7.png" height="75%" width="100%" />
 </p>
 <p>
-	Create a new session, root/Password1.
+	Create a new session, root/root
 </p>
 <p>
 	Connect to the session:
@@ -251,7 +251,7 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 	MySQL Username: root
 </p>
 <p>
-	MySQL Password: root
+	MySQL Password: root:
 </p>
 <p>
 	<img src="https://i.imgur.com/6uKct7u.png" height="75%" width="100%" />
@@ -263,9 +263,7 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 </p>
 <br />
 <br />
-<h3 align="center">Clean up</h3>
-<br />
-<br />
+
 <h3 align="center">Login to the osTicket Admin Panel (http://localhost/osTicket/scp/login.php)</h3>
 <p>
 	<img src="https://i.imgur.com/0q0V3o4.png" height="75%" width="100%" />

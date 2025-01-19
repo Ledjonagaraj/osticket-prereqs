@@ -251,7 +251,7 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 	MySQL Username: root
 </p>
 <p>
-	MySQL Password: Password1:
+	MySQL Password: root:
 </p>
 <p>
 	<img src="https://i.imgur.com/6uKct7u.png" height="75%" width="100%" />
